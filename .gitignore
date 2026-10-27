@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+*.local.json
+*.local.md
+delegate-output/
+*.lock
+.DS_Store
+Thumbs.db
+

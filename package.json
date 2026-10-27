@@ -1,0 +1,13 @@
+{
+  "name": "codex-profile-delegate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "既存のChatGPTログイン済みCODEX_HOMEを選んでCodexへ一段委譲するランナー",
+  "scripts": {
+    "test": "node --test test/runner.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

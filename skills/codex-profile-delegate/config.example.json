@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "launcher": {
+    "type": "node",
+    "entry": "../../../tools/node_modules/@openai/codex/bin/codex.js"
+  },
+  "profiles": {
+    "work": {
+      "codexHome": "../../../private/codex-homes/work"
+    }
+  }
+}
+
